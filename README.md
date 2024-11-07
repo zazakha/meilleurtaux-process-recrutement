@@ -9,13 +9,11 @@ et en présentation.
 
 
 Pour commencer l’exercice, suivez ces étapes :
-	1.	Clonez ce repo sur votre machine locale.
- 	2.	Créez un environnement Python virtuel. 
-    - Assurez-vous d’avoir une version de Python égale ou supérieure à 3.8. 
-     Dans le terminal, accédez au dossier où vous avez cloné ce dépôt. Une fois dans le bon dossier, créez un environnement virtuel en tapant la commande suivante :  python -m venv venv
-     Cela créera un dossier venv qui contiendra tous les packages Python pour cet env. Activer ensuite l'env virtuel ( avec source venv/bin/activate pour macOS et venv\Scripts\activate pour Windows) 
-    - N’hésitez pas à utiliser l’IDE de votre choix pour interagir avec Jupyter Notebook.
-  3.	Réalisez l’exercice en repondant directement aux questions dans le Jupyter Notebook
+1.Clonez ce repo sur votre machine locale.
+2.Créez un environnement Python virtuel. 
+	- Assurez-vous d’avoir une version de Python égale ou supérieure à 3.8. Dans le terminal, accédez au dossier où vous avez cloné ce dépôt. Une fois dans le bon dossier, créez un environnement virtuel en tapant la commande suivante :  python -m venv venv Cela créera un dossier venv qui contiendra tous les packages Python pour cet env. Activer ensuite l'env virtuel ( avec source venv/bin/activate pour macOS et venv\Scripts\activate pour Windows) 
+	- N’hésitez pas à utiliser l’IDE de votre choix pour interagir avec Jupyter Notebook.
+3.Réalisez l’exercice en repondant directement aux questions dans le Jupyter Notebook
 
 
 ## Instructions pour soumettre votre test : 
