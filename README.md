@@ -90,7 +90,8 @@ L’API doit recevoir un paramètre `id` correspondant à l’identifiant unique
 
 Voici un exemple de réponse attendue. N’hésitez pas à ajouter toute information pertinente :
 
-`{
+```json
+{
   "response_id": "0cc12fda-deca-4f24-918b-f0884d2bb910",
   "id": "0065q00000AlAK0AAN",
   "age_emprunteur": 33,
@@ -101,7 +102,8 @@ Voici un exemple de réponse attendue. N’hésitez pas à ajouter toute informa
   "revenu_total": 7731.67,
   "montant_pret_principal": 235055,
   "stage_name": "6-Perdue"
-}`
+}
+```
 	
 
 # Partie 3 QUESTION OPTIONNEL EN BONUS :Conteneurisation de l’API 
