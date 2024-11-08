@@ -49,7 +49,7 @@ Pour commencer l’exercice, suivez ces étapes :
 3. **Activer ensuite l'env virtuel2**
 
 	```bash 
-    sourrce venv/bin/activate  #pour macOS
+    source venv/bin/activate  #pour macOS
     venv\Scripts\activate     #pour Windows
 
 N'hésitez pas à utiliser l’IDE de votre choix pour interagir avec Jupyter Notebook.
@@ -67,7 +67,7 @@ Vous pouvez vous intéresser aux champs suivants :
 - `TechMail_CategorieProfessionnelleEmpru__c`
 - `TechMail_ContratDeTravailEmprunteur__c`
 
-### Question 3 : 
+### Question 2 : 
 En utilisant SQL:
 Pour chaque opportunité, sélectionnez la proposition de prêt la plus avantageuse ( c’est-à-dire celle avec le Taux d’intérêt le plus faible) parmi toutes les propositions disponibles.
 Affi### Question 3
@@ -104,7 +104,7 @@ Voici un exemple de réponse attendue. N’hésitez pas à ajouter toute informa
 }`
 	
 
-# Partie 3 QUESTION OPTONNEL EN BONUS : Conteneurisation de l’API 
+# Partie 3 QUESTION OPTIONNEL EN BONUS :Conteneurisation de l’API 
 Déployer l’application API dans un container en local.
 
 # Instructions pour soumettre votre test
