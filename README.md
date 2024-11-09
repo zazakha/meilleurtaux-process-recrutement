@@ -10,7 +10,7 @@ Bienvenue dans le repository du test technique pour le poste de **Data Engineer*
 
 ## 📂 Structure des données 
 
-Dans le dossier `data_sources/`, vous trouverez trois fichiers CSV :
+Dans le dossier `data_sources/`, vous trouverez un zip contenant trois fichiers CSV :
 
 - **banques_test.csv** : contient la liste des banques qui peuvent proposer des offres de prêt immobilier aux clients.
 - **opportunity_test.csv** : contient les opportunités, c’est-à-dire les demandes de prêt immobilier faites par des personnes. Il contient des informations sur le profil des demandeurs de pret immobilier, les caractéristiques du projet immobilier...
