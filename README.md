@@ -81,14 +81,11 @@ Affichez les colonnes suivantes dans votre résultat final :
 - **Nom de la banque**
 
 ## Partie 2 : Création d’une API pour récupérer les informations d’une opportunité
-**Exercice** : Création d’une API pour récupérer les informations d’une opportunité.  
-En utilisant Python et le framework de votre choix, créez un endpoint permettant de consulter les informations principales d’une opportunité en utilisant son ID.
 
-### Objectif
-Développez une API RESTful en Python qui permet d’interroger les informations principales d’une opportunité en utilisant son ID.  
-L’API doit recevoir un paramètre `id` correspondant à l’identifiant unique de l’opportunité.
+En utilisant Python et le framework de votre choix, créez un endpoint permettant de consulter quelques informations principales d’une opportunité en utilisant son l'ID de l'oppo.
+L’API doit recevoir un paramètre `id` correspondant à l’identifiant unique de l’opportunité et doit renvoyer une réponse aveec les info de l'oppo. Pour information, response_id est un UUID random.
 
-Voici un exemple de réponse attendue. N’hésitez pas à ajouter toute information pertinente :
+Voici un exemple de réponse attendue :
 
 ```json
 {
