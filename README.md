@@ -106,8 +106,9 @@ Voici un exemple de réponse attendue. N’hésitez pas à ajouter toute informa
 ```
 	
 
-# Partie 3 QUESTION OPTIONNEL EN BONUS :Conteneurisation de l’API 
-Déployer l’application API dans un container en local.
+# Partie 3 :Conteneurisation de l’API 
+Déployer l’application API faite dans la Partie 2 dans un container en local.
+
 
 # Instructions pour soumettre votre test
 Si votre code nécessite des packages supplémentaires, incluez un fichier `requirements.txt` les listant.
